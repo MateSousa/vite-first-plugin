@@ -1,1 +1,0 @@
-export { default as FirstPlugin }  from './FirstPlugin.vue';
